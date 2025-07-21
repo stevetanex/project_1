@@ -1,0 +1,100 @@
+.bg1{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    z-index: 1;
+    
+   
+    
+   
+    
+}
+.contact1{
+    display: flex;
+    z-index: 1;
+    top: 2rem;
+    list-style: none;
+    position: absolute;
+    left: 22px;
+    gap: 2rem;
+    
+}
+.contact2{
+    display: flex;
+    z-index: 1;
+    top: 2rem;
+    list-style: none;
+    position: absolute;
+    right: 22px;
+    gap: 1rem;
+    
+}
+.cc{
+    color:white;
+    text-decoration:none;
+    
+    
+}
+
+
+.nav2{
+    position: absolute;
+    left: 1rem;
+    top: 7rem;
+    gap:2rem;
+  
+}
+.list22{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    font-size: large;
+}
+.k1:hover{
+    background-image: url("./images/rbt-placeholder.jpg");
+    color: green;
+
+
+}
+.img2{
+    position: absolute;
+    left: 49rem;
+    top: 4rem;
+   
+}
+.img22{
+     width: 33%;
+    height: 33%;
+
+}
+.nav3{
+    position: absolute;
+    right: 1rem;
+    top: 7rem;
+    gap: 7rem;
+}
+.www{
+    font-size:60px;
+}
+
+.wwww{
+    top: 250px;
+    left: 390px;
+}
+.scam{
+    position:absolute;
+    top: 44rem;
+
+}
+.scam1{
+
+    width: 100%;
+}
+
+
